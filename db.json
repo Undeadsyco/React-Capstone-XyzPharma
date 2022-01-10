@@ -1,0 +1,411 @@
+{
+  "table": [
+    {
+      "year": 2019,
+      "data": [
+        {
+          "quarter": 1,
+          "rows": [
+            {
+              "title": "Turnover",
+              "million": "9090",
+              "growthPercentage": "19",
+              "cer": "19"
+            },
+            {
+              "title": "Total Operating Profit",
+              "million": "2014",
+              "growthPercentage": "41",
+              "cer": "42"
+            },
+            {
+              "title": "Total Earnings Per Share",
+              "million": "31.5p",
+              "growthPercentage": "87",
+              "cer": "89"
+            },
+            {
+              "title": "Adjusted Operating Profit",
+              "million": "2675",
+              "growthPercentage": "24",
+              "cer": "24"
+            },
+            {
+              "title": "Adjusted Earnings Per Share",
+              "million": "37.7p",
+              "growthPercentage": "25",
+              "cer": "26"
+            },
+            {
+              "title": "Net Cash From Operating Activities",
+              "million": "965",
+              "growthPercentage": "46"
+            },
+            {
+              "title": "Free Cash Flow",
+              "million": "531",
+              "growthPercentage": ">100"
+            }
+          ]
+        },
+        {
+          "quarter": 2,
+          "rows": [
+            {
+              "title": "Turnover",
+              "million": "9000",
+              "growthPercentage": "19",
+              "cer": "19"
+            },
+            {
+              "title": "Total Operating Profit",
+              "million": "2002",
+              "growthPercentage": "40",
+              "cer": "41"
+            },
+            {
+              "title": "Total Earnings Per Share",
+              "million": "30.5p",
+              "growthPercentage": "86",
+              "cer": "87"
+            },
+            {
+              "title": "Adjusted Operating Profit",
+              "million": "2567",
+              "growthPercentage": "23",
+              "cer": "24"
+            },
+            {
+              "title": "Adjusted Earnings Per Share",
+              "million": "36.7p",
+              "growthPercentage": "24",
+              "cer": "25"
+            },
+            {
+              "title": "Net Cash From Operating Activities",
+              "million": "950",
+              "growthPercentage": "44"
+            },
+            {
+              "title": "Free Cash Flow",
+              "million": "524",
+              "growthPercentage": ">100"
+            }
+          ]
+        },
+        {
+          "quarter": 3,
+          "rows": [
+            {
+              "title": "Turnover",
+              "million": "9100",
+              "growthPercentage": "20",
+              "cer": "21"
+            },
+            {
+              "title": "Total Operating Profit",
+              "million": "2020",
+              "growthPercentage": "43",
+              "cer": "44"
+            },
+            {
+              "title": "Total Earnings Per Share",
+              "million": "33.5p",
+              "growthPercentage": "89",
+              "cer": "90"
+            },
+            {
+              "title": "Adjusted Operating Profit",
+              "million": "2711",
+              "growthPercentage": "26",
+              "cer": "26"
+            },
+            {
+              "title": "Adjusted Earnings Per Share",
+              "million": "38p",
+              "growthPercentage": "27",
+              "cer": "28"
+            },
+            {
+              "title": "Net Cash From Operating Activities",
+              "million": "988",
+              "growthPercentage": "48"
+            },
+            {
+              "title": "Free Cash Flow",
+              "million": "542",
+              "growthPercentage": ">100"
+            }
+          ]
+        },
+        {
+          "quarter": 4,
+          "rows": [
+            {
+              "title": "Turnover",
+              "million": "9112",
+              "growthPercentage": "20",
+              "cer": "20"
+            },
+            {
+              "title": "Total Operating Profit",
+              "million": "2020",
+              "growthPercentage": "43",
+              "cer": "44"
+            },
+            {
+              "title": "Total Earnings Per Share",
+              "million": "32p",
+              "growthPercentage": "89",
+              "cer": "90"
+            },
+            {
+              "title": "Adjusted Operating Profit",
+              "million": "2876",
+              "growthPercentage": "27",
+              "cer": "28"
+            },
+            {
+              "title": "Adjusted Earnings Per Share",
+              "million": "38",
+              "growthPercentage": "27",
+              "cer": "28"
+            },
+            {
+              "title": "Net Cash From Operating Activities",
+              "million": "997",
+              "growthPercentage": "49"
+            },
+            {
+              "title": "Free Cash Flow",
+              "million": "547",
+              "growthPercentage": ">100"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "data": [
+        {
+          "quarter": 1,
+          "rows": [
+            {
+              "title": "Turnover",
+              "million": "8900",
+              "growthPercentage": "18",
+              "cer": "18"
+            },
+            {
+              "title": "Total Operating Profit",
+              "million": "1998",
+              "growthPercentage": "39",
+              "cer": "40"
+            },
+            {
+              "title": "Total Earnings Per Share",
+              "million": "31.5p",
+              "growthPercentage": "87",
+              "cer": "89"
+            },
+            {
+              "title": "Adjusted Operating Profit",
+              "million": "2564",
+              "growthPercentage": "22",
+              "cer": "22"
+            },
+            {
+              "title": "Adjusted Earnings Per Share",
+              "million": "36.6",
+              "growthPercentage": "23",
+              "cer": "23"
+            },
+            {
+              "title": "Net Cash From Operating Activities",
+              "million": "890",
+              "growthPercentage": "42"
+            },
+            {
+              "title": "Free Cash Flow",
+              "million": "531",
+              "growthPercentage": ">100"
+            }
+          ]
+        },
+        {
+          "quarter": 2,
+          "rows": [
+            {
+              "title": "Turnover",
+              "million": "9090",
+              "growthPercentage": "22",
+              "cer": "23"
+            },
+            {
+              "title": "Total Operating Profit",
+              "million": "1997",
+              "growthPercentage": "47",
+              "cer": "48"
+            },
+            {
+              "title": "Total Earnings Per Share",
+              "million": "30.5p",
+              "growthPercentage": "85",
+              "cer": "86"
+            },
+            {
+              "title": "Adjusted Operating Profit",
+              "million": "2345",
+              "growthPercentage": "26",
+              "cer": "26"
+            },
+            {
+              "title": "Adjusted Earnings Per Share",
+              "million": "36p",
+              "growthPercentage": "28",
+              "cer": "29"
+            },
+            {
+              "title": "Net Cash From Operating Activities",
+              "million": "986",
+              "growthPercentage": "49"
+            },
+            {
+              "title": "Free Cash Flow",
+              "million": "521",
+              "growthPercentage": ">100"
+            }
+          ]
+        },
+        {
+          "quarter": 3,
+          "rows": [
+            {
+              "title": "Turnover",
+              "million": "9000",
+              "growthPercentage": "19",
+              "cer": "19"
+            },
+            {
+              "title": "Total Operating Profit",
+              "million": "2000",
+              "growthPercentage": "40",
+              "cer": "41"
+            },
+            {
+              "title": "Total Earnings Per Share",
+              "million": "30.6p",
+              "growthPercentage": "89",
+              "cer": "90"
+            },
+            {
+              "title": "Adjusted Operating Profit",
+              "million": "2543",
+              "growthPercentage": "26",
+              "cer": "26"
+            },
+            {
+              "title": "Adjusted Earnings Per Share",
+              "million": "35p",
+              "growthPercentage": "26",
+              "cer": "26"
+            },
+            {
+              "title": "Net Cash From Operating Activities",
+              "million": "900",
+              "growthPercentage": "50"
+            },
+            {
+              "title": "Free Cash Flow",
+              "million": "510",
+              "growthPercentage": ">100"
+            }
+          ]
+        },
+        {
+          "quarter": 4,
+          "rows": [
+            {
+              "title": "Turnover",
+              "million": "9070",
+              "growthPercentage": "19",
+              "cer": "20"
+            },
+            {
+              "title": "Total Operating Profit",
+              "million": "2000",
+              "growthPercentage": "44",
+              "cer": "45"
+            },
+            {
+              "title": "Total Earnings Per Share",
+              "million": "32.3p",
+              "growthPercentage": "83",
+              "cer": "87"
+            },
+            {
+              "title": "Adjusted Operating Profit",
+              "million": "2345",
+              "growthPercentage": "25",
+              "cer": "25"
+            },
+            {
+              "title": "Adjusted Earnings Per Share",
+              "million": "35.7p",
+              "growthPercentage": "26",
+              "cer": "27"
+            },
+            {
+              "title": "Net Cash From Operating Activities",
+              "million": "913",
+              "growthPercentage": "47"
+            },
+            {
+              "title": "Free Cash Flow",
+              "million": "512",
+              "growthPercentage": ">100"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "tradeName": "pan-40",
+      "genericName": "pantoprazole",
+      "description": "Pantoprazole is a proton pump inhibitor used in the treatment of stomach ulcers, gastroesophageal reflux disease (GERD) and other acidity-related disorders. It decreases the acid produced in the stomach and helps in promoting healing of ulcers.",
+      "category": "gastrointestinal",
+      "sideEffects": ["Headache", "Diarrhea", "Nausea or Vomiting"],
+      "uses": [
+        "Erosive Esophagitis",
+        "Gastroesophagal Reflux Disease",
+        "Gastro-duodenal ulcers"
+      ],
+      "image": "medicine1.jpg"
+    },
+    {
+      "tradeName": "calpol",
+      "genericName": "paracetamol",
+      "description": "Paracetamol, also known as acetaminophen, is a medication used to treat pain and fever. It is typically used for mild to moderate pain relief. Evidence is mixed for its use to relieve fever in children. It is often sold in combination with other medications, such as in many cold medications.",
+      "category": "analgesic",
+      "sideEffects": ["Nausea or Vomiting", "Gastric", " Mouth Ulcer"],
+      "uses": ["Fever", "Headache", "Muscle Pain", "Menstrual Cramps"],
+      "image": "medicine2.jpg"
+    },
+    {
+      "tradeName": "acecloren",
+      "genericName": "aceclofenac",
+      "description": "Aceclofenac is a nonsteroidal anti-inflammatory drug analog of diclofenac. It is used for the relief of pain and inflammation in rheumatoid arthritis, osteoarthritis and ankylosing spondylitis.",
+      "category": "anti-inflammatory",
+      "sideEffects": ["Abdominal pain", "Constipation", "Diarrhea"],
+      "uses": [
+        "Rheumatoid Arthritis",
+        "Osteoarthritis",
+        "Ankylosing Spondylitis"
+      ],
+      "image": "medicine3.jpg"
+    }
+  ]
+}
