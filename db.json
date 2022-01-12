@@ -378,11 +378,7 @@
       "description": "Pantoprazole is a proton pump inhibitor used in the treatment of stomach ulcers, gastroesophageal reflux disease (GERD) and other acidity-related disorders. It decreases the acid produced in the stomach and helps in promoting healing of ulcers.",
       "category": "gastrointestinal",
       "sideEffects": ["Headache", "Diarrhea", "Nausea or Vomiting"],
-      "uses": [
-        "Erosive Esophagitis",
-        "Gastroesophagal Reflux Disease",
-        "Gastro-duodenal ulcers"
-      ],
+      "uses": ["Erosive Esophagitis", "Gastroesophagal Reflux Disease", "Gastro-duodenal ulcers"],
       "image": "medicine1.jpg"
     },
     {
@@ -400,11 +396,7 @@
       "description": "Aceclofenac is a nonsteroidal anti-inflammatory drug analog of diclofenac. It is used for the relief of pain and inflammation in rheumatoid arthritis, osteoarthritis and ankylosing spondylitis.",
       "category": "anti-inflammatory",
       "sideEffects": ["Abdominal pain", "Constipation", "Diarrhea"],
-      "uses": [
-        "Rheumatoid Arthritis",
-        "Osteoarthritis",
-        "Ankylosing Spondylitis"
-      ],
+      "uses": ["Rheumatoid Arthritis", "Osteoarthritis", "Ankylosing Spondylitis"],
       "image": "medicine3.jpg"
     }
   ]
